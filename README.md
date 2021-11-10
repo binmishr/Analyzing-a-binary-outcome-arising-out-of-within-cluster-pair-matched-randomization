@@ -1,0 +1,1 @@
+# Analyzing-a-binary-outcome-arising-out-of-within-cluster-pair-matched-randomization
